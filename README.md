@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Eyosyas </h1>
-<h3 align="center">Front End Developer | Information Systems Student | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | Information Systems Student | Tech Explorer</h3>
 
 ---
 

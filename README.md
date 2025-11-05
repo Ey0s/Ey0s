@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm Eyosyas, an Ethiopian developer and current **Information Systems** student with a growing passion for software development, UI/UX design, and all things tech. I enjoy building full-stack projects, experimenting with tools, and turning ideas into working apps.
 
@@ -14,7 +14,7 @@ I'm Eyosyas, an Ethiopian developer and current **Information Systems** student 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -46,7 +46,7 @@ I'm Eyosyas, an Ethiopian developer and current **Information Systems** student 
 
 ---
 
-### 🔥 Current Projects
+###  Current Projects
 
 1. **Portfolio Website** – A modern and interactive portfolio built with React and animations  
 2. **AI Chatbot App** – Python chatbot with CustomTkinter and local chat history  
@@ -55,7 +55,7 @@ I'm Eyosyas, an Ethiopian developer and current **Information Systems** student 
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ey0s&show_icons=true&theme=radical" />
@@ -64,7 +64,7 @@ I'm Eyosyas, an Ethiopian developer and current **Information Systems** student 
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="mailto:eyosyasyoseph1934@gmail.com">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eyosyas Yoseph</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1800&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Focused;Security+Enthusiast;Information+Systems+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1800&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+Focused;Security+Enthusiast;Information+Systems+Student" />
 </p>
 
 ---

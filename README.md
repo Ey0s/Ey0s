@@ -83,7 +83,7 @@ Java + Firebase mobile application with real-time database synchronization and s
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ey0s&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=ey0s&theme=default&hide_border=false&cache_seconds=0&v=1" />
 </p>
 
 ---

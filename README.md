@@ -77,22 +77,6 @@ A **Java + Firebase mobile application** that allows users to browse events, pur
 - Scalable Application Architecture  
 - Cybersecurity Fundamentals  
 
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ey0s&show_icons=true&theme=default" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ey0s&layout=compact&theme=default" />
-</p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ey0s" />
-</p>
 
 ---
 
